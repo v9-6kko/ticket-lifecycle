@@ -33,7 +33,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In a tab go to this url http://localhost/osTicket/. Select open a New Ticket.
+
+Fill in the contact information with one of the users you created earlier, and select one of the help topics we created as well.
 </p>
 <br />
 
@@ -41,7 +43,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next fill out your Ticket Details. You can create whatever you’d like - or just copy what I have written. This is simply to familiarize you with the software, the content is not important.
+
 </p>
 <br />
 
@@ -49,6 +52,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With a ticket sent, log in to osTicket as one of the agents you created earlier. Sign in as the admin one
+
+Select the ticket you just created and we will begin editing some of the settings.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change the priority based on the severity of the scenario you’ve created. If you’re using the same one as me, change it to emergency. Same with the SLA. Assign the ticket to the agent you are currently using.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next feature we will look at is the Department. You have the ability to transfer departments for a multitude of reasons, primarily if the ticket at hand cannot be solved by the current department, and needs to be escalated. I will not be transferring it, but you can try it if you’d like just to familiarize yourself with it.
+
+At the bottom of the page, there is an area for you to write and post potential updates. As well as an area to change ticket status. Obviously the ticket is currently open.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Write a possible solution for your scenario, and then change the status to closed. Observe how the ticket disappears from the dashboard. You can find it again by clicking on the closed section.
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Swap between the different agents and observe how they may or may not be able to interact with or do certain things. It is best to make sure your understanding of the software is as deep as possible.
+
+
 </p>
 <br />
