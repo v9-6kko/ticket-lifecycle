@@ -49,7 +49,7 @@ Next fill out your Ticket Details. You can create whatever you’d like - or jus
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/i2i6fd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 With a ticket sent, log in to osTicket as one of the agents you created earlier. Sign in as the admin one
@@ -60,18 +60,11 @@ Select the ticket you just created and we will begin editing some of the setting
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/xe5tck.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Change the priority based on the severity of the scenario you’ve created. If you’re using the same one as me, change it to emergency. Same with the SLA. Assign the ticket to the agent you are currently using.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The next feature we will look at is the Department. You have the ability to transfer departments for a multitude of reasons, primarily if the ticket at hand cannot be solved by the current department, and needs to be escalated. I will not be transferring it, but you can try it if you’d like just to familiarize yourself with it.
+Change the priority based on the severity of the scenario you’ve created. If you’re using the same one as me, change it to normal. Same with the SLA. Assign the ticket to the agent you are currently using.
+The next feature we will look at is the Department. You have the ability to transfer departments for a multitude of reasons, primarily if the ticket at hand cannot be solved by the current department, and needs to be escalated. The Support Department is acceptable for the ticket I have created and same for if you have copied mine.
 
 At the bottom of the page, there is an area for you to write and post potential updates. As well as an area to change ticket status. Obviously the ticket is currently open.
 
@@ -79,19 +72,11 @@ At the bottom of the page, there is an area for you to write and post potential 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/05jm0n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Write a possible solution for your scenario, and then change the status to closed. Observe how the ticket disappears from the dashboard. You can find it again by clicking on the closed section.
 
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Swap between the different agents and observe how they may or may not be able to interact with or do certain things. It is best to make sure your understanding of the software is as deep as possible.
 
 
