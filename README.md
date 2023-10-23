@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/u7cvgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In a tab go to this url http://localhost/osTicket/. Select open a New Ticket.
@@ -40,7 +40,7 @@ Fill in the contact information with one of the users you created earlier, and s
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/z3q44f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next fill out your Ticket Details. You can create whatever you’d like - or just copy what I have written. This is simply to familiarize you with the software, the content is not important.
